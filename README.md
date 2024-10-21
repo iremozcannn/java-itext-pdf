@@ -14,7 +14,3 @@ Bu projemde, **Java** programlama dili ve **iText kütüphanesini** kullanarak r
 - **iText 7**  
 - **Maven** (bağımlılık yönetimi için)  
 
-## Kurulum  
-1. Bu projeyi yerel makinenize klonlayın:  
-   ```bash
-   git clone https://github.com/kullaniciadi/ozgecmis-olusturma.git
